@@ -52,6 +52,10 @@ a {
 a:hover {
     color: #e43232;
 }
+#header{
+    color: #e43232;
+    font-weight: bolder;
+}
 
 /* Hero Section */
 .intro {
